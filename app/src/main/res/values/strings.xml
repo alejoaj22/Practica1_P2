@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Formulario de registro</string>
+    <string name="loggin">Loggin:</string>
+    <string name="iloggin">Inserte aquí</string>
+    <string name="Password">Password:</string>
+    <string name="rPassword">Repetir password:</string>
+    <string name="Email">Email:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="Fecha">Fecha de cumpleaños</string>
+    <string name="Ciudad">Ciudad:</string>
+    <string name="cine">Cine</string>
+    <string name="Hobbies">Hobbies:</string>
+    <string name="comer">Comer</string>
+    <string name="musica">Música</string>
+    <string name="deporte">Deportes</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="info">Ingrese los datos y luego de aceptar para confirmar el registro</string>
+
+
+    <string-array name="Ciudad_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
